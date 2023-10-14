@@ -1,7 +1,5 @@
 # AdventureWorks-Exploration
 
-# AdventureWorks Deep Drive 
-
 ### ABOUT THIS PROJECT
 #### I wanted to approach this project from AdvetnureWork's perspective as if I were in a managerial position trying to better understand my employees and the success or failure of the products the company offers. I mainly focused on products including purchase orders and inventory, employee and customer information, and sales.
 
